@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Currently
+
+- Writing software in Go, C and TypeScript
+
+## Interests
+
+`Systems` `Security` `Networking` `Distributed Systems` `Open Source`
+
 <!--
 **okning/okning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
