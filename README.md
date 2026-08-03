@@ -2,7 +2,7 @@
 
 ## Currently
 
-- Writing software in Go, C and TypeScript
+Writing software in Go, C and TypeScript
 
 ## Interests
 
